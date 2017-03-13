@@ -4,6 +4,7 @@
 *.swp
 *.so
 .pybuild
+db.sqlite
 dido.egg-info
 dido/build
 bak
